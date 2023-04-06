@@ -1,1 +1,1 @@
-# CodeClause
+# CodeClause Internship
