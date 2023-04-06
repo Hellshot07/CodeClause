@@ -1,7 +1,7 @@
 # CodeClause Internship
 
 ### Task - 01 : Create your own Portfolio Website
-Demo : https://task2-portfoliosite.netlify.app/
+Demo : https://task2-portfoliosite.netlify.app
 
 ### Task - 02 : Create your Personal Blog
 Demo : https://task1-personalblog.netlify.app
